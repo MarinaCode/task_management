@@ -5,7 +5,8 @@ var config = {
     clients:[{
         email : "admin@admin.com",
         password : "admin",
-        role:"superadmin"
+        role:"superadmin",
+        hash: "$2a$10$BGdDW7n89hmVmbgi4sLmOeSAqy7viGLzQxwyOckbmtar19kzpJQau"
     }],
     restApis: {
         users: {
